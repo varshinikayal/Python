@@ -11,7 +11,7 @@ for c in s:
  return stack==[]
             
             
-   Method 2
+   Method-2
            
 stack=[]
 d={"(":")","{":"}","[":"]"}
