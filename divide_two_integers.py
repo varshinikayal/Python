@@ -1,4 +1,4 @@
-#function to divide a by b a and return floor value
+#Function to divide a by b a and return floor value
 def divide(dividend,divisor):
   #calculate the sign of divisor
   #sign will be negative only if either one of them is negative
