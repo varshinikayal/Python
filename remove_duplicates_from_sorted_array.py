@@ -1,5 +1,5 @@
 def removeduplicates(nums):
-  #check tje array is empty or not
+  #check the array is empty or not
   if len(nums)==0:
     return 0
   #initialize the pointer
